@@ -6,6 +6,16 @@ there is no MANUAL_CONTROL, no RC-stick emulation, and no time-based movement
 anywhere in the library. Every closed-loop function confirms its result from
 telemetry, never from elapsed time.
 
+## Install
+
+```
+git clone git clone https://github.com/mavlink/c_library_v2.git
+git clone https://github.com/SparkScratch-P/autonomous-uav-sdk.git
+```
+
+Extract the `c_library_v2` folder within the SDK Folder and start coding in `main.c`. 
+
+
 ## Build
 
 ```
