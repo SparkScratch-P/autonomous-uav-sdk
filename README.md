@@ -9,7 +9,7 @@ telemetry, never from elapsed time.
 ## Install
 
 ```
-git clone git clone https://github.com/mavlink/c_library_v2.git
+git clone https://github.com/mavlink/c_library_v2.git
 git clone https://github.com/SparkScratch-P/autonomous-uav-sdk.git
 ```
 
