@@ -1,11 +1,11 @@
 /*
- * mav.c - Example autonomous mission.
+ * Main.c - Example autonomous mission.
  *
  * Every MAVLink detail, telemetry cache, thread, Offboard stream,
  * acknowledgement wait, and safety check lives inside func.h /
  * include/sdk_*.h. This file only calls the public API.
  */
-#include "func.h"
+#include "mission.h"
 
 int main(void)
 {
